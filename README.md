@@ -5,7 +5,7 @@ first introduced in the japanese language as a consequence of the interaction
 between europeans and the japanese people.
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/0/00/NanbanCarrack.jpg"
- alt="Namban Carrack" title="Namban Carrack" align="right" height=85 />
+ alt="Namban Carrack" title="Namban Carrack" align="right" height=60 />
 
 > "They eat with their fingers instead of with chopsticks such as we use. They
 show their feelings without any self-control. They cannot understand the meaning

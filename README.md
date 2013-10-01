@@ -45,7 +45,7 @@ user=> (katakana->romaji "このパン")
 "このpan"
 user=> (long-vowel-syllab? "shū")
 truthy
-user=> (which-scripts "パソコンが難しいです。")
+user=> (scripts "パソコンが難しいです。")
 #{:katakana :hiragana :kanji}
 user=> (henkan "shuupatsu" :wapuro :kunrei)
 "shūpatsu"

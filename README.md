@@ -69,7 +69,7 @@ words. This will change in future releases.
 - support hyōjun-shiki
 - consonant expansion
 - clojurescript support
-- clojure_py support
+- clojure-py support
 
 ## Notes
 
@@ -78,6 +78,10 @@ Tools like MeCab segment text which can improve namban's accuracy.
 ## Missing something?
 
 Feature requests and tips are welcome!
+
+## Japanese language Q&A by
+
+Megumi Imai
 
 ## License
 

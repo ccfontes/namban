@@ -30,7 +30,7 @@ and more.
 
 ### Install
 
-In project.clj: `[namban "0.1.2"]`
+In project.clj: `[namban "0.1.3"]`
 
 ### Tatoeba
 
@@ -43,8 +43,8 @@ user=> (hepburn "このパン")
 "konopan"
 user=> (katakana->romaji "このパン")
 "このpan"
-user=> (long-vowel-syllab? "shū")
-truthy
+user=> (romaji->hiragana "wareware wa uchūjin desu")
+"われわれ わ うちゅうじん です" ; no way to know wa is a particle
 user=> (scripts "パソコンが難しいです。")
 #{:katakana :hiragana :kanji}
 user=> (henkan "shuupatsu" :wapuro :kunrei)
@@ -63,7 +63,7 @@ words. This will change in future releases.
 
 ## TODO
 
-- add numbers [0-9]
+- support kana->X
 - support katakana/romaji-upper-case and hiragana/romaji-lower-case
 - support hankaku-katanana
 - support hyōjun-shiki

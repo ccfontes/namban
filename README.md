@@ -30,7 +30,7 @@ and more.
 
 ### Install
 
-In project.clj: `[namban "0.1.3"]`
+In project.clj: `[namban "0.1.4"]`
 
 ### Tatoeba
 API is available both in romaji and kana.
